@@ -1,0 +1,1 @@
+concurrently is for running more than one npm command
